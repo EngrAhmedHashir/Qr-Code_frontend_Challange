@@ -1,0 +1,47 @@
+/********** Tag Selevtors************/
+body
+{
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
+h1
+{
+  font-size: 24px;
+  display: inline-block;
+  width: 300px;
+  margin-bottom: 0px;
+}
+p
+{
+  font-size: 15px;
+  width: 250px;
+  color:  grey;
+  padding-left: 25px;
+}
+a
+{
+
+}
+img
+{
+  border-radius: 2.5%;
+  width: 300px;
+}
+/********** class Selevtors************/
+.qr
+{
+  width:300px;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5%;
+  background-color:  hsl(0, 0%, 100%);
+  padding: 25px;
+}
+.attribution
+{
+
+}
